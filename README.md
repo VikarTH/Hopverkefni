@@ -1,2 +1,2 @@
 # Hopverkefni
-Alon og Vikar Gera verkefni
+Along og Vikar Gera verkefni
