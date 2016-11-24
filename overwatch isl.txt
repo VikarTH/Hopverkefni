@@ -1,0 +1,11 @@
+Overwatch er fyrstu persónu byssuleikur þar sem maður spilar í 6 manna lið á móti öðru liði. Tilgangurinn í leiknum fer eftir hvernig (gamemode) þú ert að spila.
+Í "payload" þarf sóknarliðið að ýta vél á endastað áður en tíminn rennur út. Varnarliðið á að reyna að stöðva hitt liðið þangað til að tíminn rennur út.
+"Capture Points gamemode" þar sem sóknarliðið á að ná að taka yfir nokkra tilnefnda staði til þess að vinna. Varnarliðið á að reyna að verja þennan stað þangað til að
+tíminn rennir út.
+"Hybrid gamemode" er blanda af "capture points" og "payload" þar sem sóknarliðið þarf að taka yfir tilnefndan stað til þess að fá aðgang að vélinni. Þá þarf
+sóknarliðið að ýta vélinni alveg að endastað. Varnarliðið reynir að vernda staðinn og vélina (ef að sóknarliðið nær völd yfir svæðinu) þangað til að tíminn rennur út.
+"Control gamemode" er aðeins öðruvísi, þar sem bæði liðin reyna að taka yfir einn tilnefndan stað og reyna að vernda honum þangað til að tíminn rennur út.
+Í leiknum getur þú keppt og æft þig á móti tölvunni, kept á móti öðru fólki sem verða valinn af handahófi, eða spila alvarlega í (competitive mode).
+
+Overwatch var tilkynnt í 7. nóvember, 2014 og kom út 23. maí, 2016. Þróun á Overwatch byrjaði þegar framleiðendur hættu að þróa á 7 ára gömlum leik "Titan" sem kom aldrei út
+eftir að leikurinn var búinn að vera þróaður í 7 ár. 

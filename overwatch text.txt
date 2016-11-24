@@ -1,15 +1,25 @@
-﻿Overwatch was announced on November 7th, 2014. Released on May 23rd, 2016.
+﻿Overwatch is a team-based multiplayer FPS which pits a team of 6 to fight against each other. The objective of the game varies after gamemode. On a gamemode called 
+"Payload", attackers have to escort a payload to the designated destination, touching checkpoints on the way while the defending team tries to stop that from happening.
+"Capture Points" is a gamemode where the attacking team has to capture a specific spot on the map while the defending team tries to stop that from happening as well.
+"Hybrid" gamemode is a mix of both of the above. The attacking team has to capture a specific point to unlock the payload, which they will then push to the end destination.
+The defending team will try to stop the attacking team from either capturing the point or pushing the payload to the objective.
+"Control" is a KotH style gamemode where both teams try to control a specific part of the map for a designated time. The first team to finish their time by having the
+point captured wins the round. You can practice against bots, match randomly against other players, or play its ranked mode where you'll play competitively versus others.
 
-Development of Overwatch was started when the cancellation of the game Titan came to be. The Titan development team
-got cut into a smaller group and began working on Overwatch. 
+Overwatch was announced on November 7th, 2014. Released on May 23rd, 2016. Development of Overwatch was started when the cancellation of the game Titan came to be.
+The Titan development team got cut into a smaller group and began working on Overwatch[1], where it went into closed beta in October 27, 2015 and ended on April 25 at 
+approximately 10:00 a.m. PDT. Following an open beta launch on May 5th through May 9th, the full game was finally released on May 23, 2016.
 
-Developer: Blizzard Entertainment
-Publisher: Blizzard Entertainment
-Directors: Jeffrey Kaplan, Chris Metzen, Aaron Keller
-Designers: Jeremy Craig, Michael Elliott, Scott Mercer
-Programmers: Mike Elliott, John LeFleur
-Artists: William Petras, Arnold Tsang
-Composer: Derek Duke, Neal Acree
+Overwatch was Developed and published
+
+
+Developer (framkvæmdaraðili): Blizzard Entertainment
+Publisher (útgefandi): Blizzard Entertainment
+Directors (stjórnendur): Jeffrey Kaplan, Chris Metzen, Aaron Keller
+Designers (hönnuðir): Jeremy Craig, Michael Elliott, Scott Mercer
+Programmers (forritarar): Mike Elliott, John LeFleur
+Artists (listamenn): William Petras, Arnold Tsang
+Composer (tónskáld): Derek Duke, Neal Acree
 
 
 
@@ -19,6 +29,8 @@ Composer: Derek Duke, Neal Acree
 
 HEIMILDIR:
 
-http://www.gameinformer.com/b/features/archive/2016/08/24/designing-overwatch-from-titan-to-torbjorn.aspx
-
-Daníel breytir...
+1. http://www.gameinformer.com/b/features/archive/2016/08/24/designing-overwatch-from-titan-to-torbjorn.aspx	
+2. http://www.polygon.com/2014/11/7/7174991/blizzard-announces-overwatch // http://www.usatoday.com/story/tech/gaming/2014/11/07/blizzard-blizzcon/18659307/
+3. https://www.furiouspaul.com/overwatch/basics/game-modes.html
+4. https://www.youtube.com/watch?v=jq-HwvYjLLg
+5. https://playoverwatch.com/en-us/blog/20098640/
