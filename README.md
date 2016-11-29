@@ -1,5 +1,5 @@
 # Hopverkefni
-<h1>Overwatch Ritgerð </h1>
+<h2>Overwatch Ritgerð </h2>
 
 Overwatch er leikur í fyrstu persónu þar sem er spilað í 6 manna lið á móti öðru 6 manna liði. Tilgangurinn í leiknum fer eftir hvernig leiktýpu þú ert að spila.
 Í "Payload" leiktýpunni þarf sóknarliðið að ýta vél á endastað áður en tíminn rennur út. Varnarliðið á að reyna að stöðva sóknarliðinu þangað til að tíminn rennur út.
