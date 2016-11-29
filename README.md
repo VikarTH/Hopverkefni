@@ -10,7 +10,7 @@ sóknarliðið að ýta vélinni alveg að endastað. Varnarliðið reynir að v
 "Control" er aðeins öðruvísi, þar sem liðin tvö reyna að taka yfir einn tilnefndan stað og reyna að vernda honum þangað til að tíminn rennur út.
 Í leiknum getur þú keppt og æft þig á móti tölvunni, kept á móti öðru fólki sem verða valinn af handahófi, eða spila alvarlega á móti öðrum sem eru svipaðir góðir í leiknum og þú.
 
-Overwatch var tilkynnt í 7. nóvember, 2014 og kom út 23. maí, 2016. Þróun á Overwatch byrjaði þegar framleiðendur hættu að þróa 7 ára gömlum leik "Titan" sem kom aldrei út. Eftir að Titan hætti að vera þróaður. Þá var liðið sem bjó til Titan breytt og minnkað í smærra lið til þess að vinna á Overwatch.
+Overwatch var tilkynnt í 7. nóvember, 2014 og kom út 23. maí, 2016. Þróun á Overwatch byrjaði þegar framleiðendur hættu að þróa 7 ára gömlum leik "Titan" sem kom aldrei út. Eftir að Titan hætti að vera þróaður, þá var liðið sem bjó til Titan breytt og minnkað í smærra lið til þess að vinna á Overwatch.
 Overwatch fór í "closed beta" í 27. október, 2015 sem endaði á 25. apríl, 2016. Þá fór leikurinn í "open beta" frá 5. maí, 2016 til 9. maí 2016 og eftir það kom leikurinn út.
 
 Framkvæmdaraðili og útgefandi Overwatch er Blizzard Entertainment. Stjórnendur leiksins eru Jeffrey Kaplan, Chris Metzen og Aaron Keller.
