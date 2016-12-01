@@ -1,0 +1,72 @@
+@font-face { font-family: "Overwatch"; 
+			src: url("http://us.battle.net/forums/static/fonts/bignoodletoo/bignoodletoo.woff") format('woff'); 
+			}
+
+.overwatch{
+	font-family: "Overwatch";
+	color:darkorange;
+		}
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+
+
+
+
+section,header,div{
+	text-align: center;
+}
+header{
+	background: whitesmoke;
+}
+
+
+
+h2{
+	font-family:"Overwatch";
+	font-size:2em;
+	margin-top:0em;
+}
+
+
+.vidd{
+	width: 60%;
+}
+
+.invis{
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.white{
+	background:white;
+	margin-top:0em;
+}
+
+.whiteashell{
+	background: linear-gradient(to top, rgba(255,0,0,0), rgba(255,255,255,1));
+	margin-top:0em;	
+	text-align:center;
+		}
+
+h1{
+	font-size:5em;
+	margin-bottom:0em;
+}
+
+.trythis{
+	background: linear-gradient(to top, rgba(255,0,0,0), rgba(255,255,255,1));
+}
+
+
+body{
+	background-image: url("hanamura.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin:0em;
+}
