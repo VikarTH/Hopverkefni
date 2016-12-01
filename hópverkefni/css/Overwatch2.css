@@ -75,7 +75,7 @@ background: rgba(255,0,0,0);
 
 
 body{
-	background-image: url("hanamura.jpg");
+	background-image: url("bg/hanamura.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     margin:0em;
